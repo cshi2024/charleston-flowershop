@@ -1,0 +1,41 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"icon": {
+				"__TYPE__": "FieldContent",
+				"value": "bargraph",
+				"type": "Select"
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Trace"
+						}
+					}
+				]
+			},
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "did",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Officia ex aliqua deserunt magna eiusmod aliqua labore incididunt id quis elit elit ullamco. Consequat cupidatat qui consequat deserunt aliquip."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

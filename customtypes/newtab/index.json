@@ -1,0 +1,19 @@
+{
+  "format": "custom",
+  "id": "newtab",
+  "label": "NewTab",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "og_image": {
+        "type": "Image",
+        "config": {
+          "label": "OG Image",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}

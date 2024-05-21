@@ -1,0 +1,48 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"testimonial": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "DocumentLink",
+					"id": "mock_document_id"
+				}
+			},
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "According"
+						}
+					}
+				]
+			},
+			"name": {
+				"__TYPE__": "FieldContent",
+				"value": "forgotten",
+				"type": "Text"
+			},
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor et qui ipsum incididunt in quis mollit."
+						}
+					}
+				]
+			},
+			"job_title": {
+				"__TYPE__": "FieldContent",
+				"value": "dust",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
